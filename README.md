@@ -29,7 +29,8 @@ This is the Backend System As per your instructions.
    cd assignment-portal
 
 2. **Install Python Requirements**
-   ```pip install -r requirements.txt
+   ```windows
+      pip install -r requirements.txt
    
 3. **Set up and Connect the Mongodb**
 4. **Run the app.py**
@@ -42,15 +43,15 @@ This is the Backend System As per your instructions.
 ![Screenshot (190)](https://github.com/user-attachments/assets/063cca65-9d5f-49f4-9197-a0108b0bb1c6)
 
 **3.View Assignements**
-```/admin/assignments?admin=Alok
+/admin/assignments?admin=Alok
 ![Screenshot (191)](https://github.com/user-attachments/assets/3ab96f68-ac62-4f69-b5ca-53c0e5f03aaf)
 
 **4.Accept Assignements**
-```/admin/assignments/6706d6663f69e18358a22e87/accept
+/admin/assignments/6706d6663f69e18358a22e87/accept
 ![Screenshot (192)](https://github.com/user-attachments/assets/5ae43b65-6db8-4ff1-b9c7-325bf0f908e3)
 
 **5.Reject Assignements**
-```/admin/assignments/6706d6663f69e18358a22e87/reject
+/admin/assignments/6706d6663f69e18358a22e87/reject
 ![Screenshot (193)](https://github.com/user-attachments/assets/73c7fa33-632b-4109-a5b6-4f5895db2928)
 
 **6.User Register**
